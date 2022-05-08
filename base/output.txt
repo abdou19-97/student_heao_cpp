@@ -1,0 +1,50 @@
+Florence,Forrest,,Corpus Christi,TX,78401,10/12/1992,5/14/2012,3.215,127
+Casey,Roberta,,Palo Alto,CA,94306,2/13/1983,5/14/2014,2.978,95
+Koch,Sandra,Apt 302,Las Vegas,NM,87701,6/6/1972,12/14/2015,2.546,69
+Dover,Darrel,,Wendell,NC,27591,3/31/1968,5/14/2012,3.958,75
+Turner,Doris,Apt B,Detroit,MI,48219,5/21/1988,5/14/2014,2.127,187
+Hernandez,Juan,,Goleta,CA,93117,7/21/1979,12/14/2015,1.598,156
+Moon,Sandy,,Mobile,AL,36693,12/28/1977,5/14/2012,3.995,124
+Reid,Andre,,Westbury,NY,11590,12/19/1986,5/14/2014,2.985,112
+Cracraft,Tara,,Brunswick,GA,31520,2/4/1973,12/14/2015,3.256,162
+Valadez,Vincent,,Sugar Land,TX,77478,9/23/1975,5/14/2012,3.127,106
+Howard,William,,Hayward,CA,94545,4/9/1971,5/14/2014,3.568,95
+Mills,Gary,,Irvington,KY,40146,4/22/1990,12/14/2015,3.759,127
+Lett,Victoria,,Chicago,IL,60606,8/13/1987,5/14/2012,3.862,95
+Brice,William,Apt 456,New Berlin,WI,53151,1/11/1974,5/14/2014,3.215,69
+Hutchison,Craig,,Nashville,TN,37211,9/27/1969,12/14/2015,2.978,75
+Taylor,Danielle,,Haledon,NJ,7508,7/17/1983,5/14/2012,2.546,162
+Gingerich,Ermelinda,Apt F,Sunapee,NH,3782,12/17/1973,5/14/2014,3.958,106
+Moody,Derek,,Bowling Green,FL,33834,10/23/1980,12/14/2015,2.127,95
+Howell,Sonja,P.O. Box 552,Wichita Falls,TX,76301,9/18/1984,5/14/2012,1.598,124
+Miser,Michael,,Midland,TX,79701,10/25/1967,5/14/2014,3.995,75
+Davenport,Robin,,Wheeling,WV,26003,3/9/1971,12/14/2015,2.985,187
+Langley,Joycelyn,,Omaha,NE,68114,2/8/1979,5/14/2012,3.256,156
+Bryant,Ann,,Minneapolis,MN,55401,2/28/1977,5/14/2014,3.127,124
+Barnett,Patrick,,Casper,WY,82601,7/28/1977,12/14/2015,3.568,95
+Knepp,Christopher,,Chicago,IL,60623,2/21/1968,5/14/2012,3.759,127
+Canfield,Reginald,,Somerset,PA,15501,3/21/1988,5/14/2014,3.862,95
+Lippert,Margarita,,Fullerton,CA,93632,6/8/1978,12/14/2015,1.598,69
+Kist,Barbara,,Jackson,TN,38301,11/3/1980,5/14/2012,3.995,75
+Waters,Ladonna,,Mexico,MO,65265,4/4/1969,5/14/2014,2.985,187
+Shepherd,Julio,,Reno,NV,89502,6/23/1978,12/14/2015,3.256,156
+Hernandez,Antonio,,Kansas City,MO,64106,3/12/1980,5/14/2012,3.127,124
+Ridge,Sharon,P.O. Box 549,Dallas,TX,75247,1/8/1991,5/14/2014,3.568,112
+Lambert,Michael,,Venango,NE,69168,10/6/1982,12/14/2015,3.759,162
+Tapp,Michael,,Greeley,CO,80634,3/12/1972,5/14/2012,3.862,106
+Lewis,Peggy,,Wheeling,WV,26003,5/1/1981,5/14/2014,1.598,127
+Smith,Darren,,Springfield,MO,65804,5/26/1968,12/14/2015,3.995,95
+Adair,Jeffrey,,Phoenix,AZ,85016,7/3/1986,5/14/2012,2.985,69
+Greene,Eric,,Norcross,GA,30091,8/10/1972,5/14/2014,3.256,75
+Gilham,Mike,Apt H,Marina,CA,93933,9/27/1980,12/14/2015,2.546,162
+Dorsey,Tammy,,Los Angeles,CA,90017,10/19/1969,5/14/2012,3.958,106
+Lewis,Robert,,Jacksonville,FL,32216,8/6/1979,5/14/2014,2.127,95
+Petitt,Craig,,Garden City,NY,11530,6/15/1971,12/14/2015,1.598,124
+Quarles,Helen,,New York,NY,10013,9/5/1980,5/14/2012,3.995,75
+Frey,Catherine,,Loveland,CO,80537,4/5/1981,5/14/2014,2.985,69
+Ortiz,Sophie,Apt 56,Boise,ID,83704,8/6/1976,12/14/2015,3.256,75
+McAbee,Michael,,Las Vegas,NV,89119,3/7/1991,5/14/2012,3.127,187
+Herrera,David,,Norcross,GA,30093,6/19/1981,5/14/2014,2.127,156
+Parry,Paul,,Vineland,NJ,8360,12/17/1973,12/14/2015,1.598,124
+Carter,Lisa,,Rolla,MO,65401,2/25/1989,5/14/2012,3.995,112
+Barbee,James,,Ripley,TN,38063,12/27/1983,5/14/2014,2.985,162

@@ -1,0 +1,131 @@
+//student.cpp
+#include <fstream>
+#include <iostream>
+#include <string>
+#include <sstream>
+#include "student.h"
+#include "address.h"
+#include "date.h"
+Student::Student(){
+  Student::lName = new std::string;
+  Student::fName = new std::string;
+  gpa = new float; 
+  credits = new int;
+  address = new Address();
+  dob = new Date();
+  grad = new Date();
+  
+  lName = lName;
+  fName = fName;
+  gpa = gpa;  
+  credits = credits;
+} 
+
+Student::~Student(){
+   delete[] fName;
+   delete[] lName;
+   delete[] gpa;
+   delete[] credits;
+   delete[] address;
+   delete[] dob;
+   delete[] grad;
+
+}
+
+void Student::init(std::string str){
+        
+    std::ifstream infile("input.txt");
+    std::ofstream outfile("output.txt");
+    
+    std::stringstream convert;
+    std::stringstream ss;
+     
+    std::string line;
+    //std::string token;
+    
+    float g = 0.0;
+    int c = 0;
+    int n = 0;
+    
+    if(infile.is_open()){
+      
+      while(!infile.eof()){
+        
+         n = 0;
+       
+         getline(infile, line, ',');
+         convert<<line;
+         fName[n] = line;
+         convert.clear();
+         convert.str("");
+          
+         getline(infile, line, ',');
+         convert<<line;
+         lName[n] = line;
+         convert.clear();
+         convert.str("");
+   
+         getline(infile, line, ',');
+         convert<<line;
+         address[n] = init(line);
+         convert.clear();
+         convert.str("");
+     
+         getline(infile, line, ',');
+         convert<<line;
+         address[n] = init(line);
+         convert.clear();
+         convert.str("");
+
+         getline(infile, line, ',');
+         convert<<line;
+         address[n] = init(line);
+         convert.clear();
+         convert.str("");
+
+         getline(infile, line, ',');
+         convert<<line;
+         address[n] = init(line);
+         convert.clear();
+         convert.str("");
+
+         getline(infile, line, ',');
+         convert<<line;
+         dob[n] = init(line);
+         convert.clear();
+         convert.str("");
+    
+         getline(infile, line, ',');
+         convert<<line;
+         grad[n] = init(line);
+
+         getline(infile, line, ',');
+         convert<<line;
+         convert>>g;
+         gpa[n] = g;
+         ss<<line;
+
+         getline(infile, line, ',');
+         convert<<line;
+         convert>>c;
+         credits[n] = c;
+         ss<<line;      
+
+         outfile<<',';
+         outfile<<line;
+
+      }     
+     
+  }
+        infile.close();
+        outfile.close();         
+
+      
+} 
+ 
+
+
+             
+            
+                 
+          
